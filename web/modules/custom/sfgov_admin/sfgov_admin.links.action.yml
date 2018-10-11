@@ -1,0 +1,5 @@
+sfgov_admin.user_admin_create:
+  route_name: user.admin_create
+  title: 'Add user'
+  appears_on:
+    - sfgov_admin.user.collection

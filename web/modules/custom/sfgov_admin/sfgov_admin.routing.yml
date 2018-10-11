@@ -1,0 +1,7 @@
+sfgov_admin.user.collection:
+  path: '/admin/peeps'
+  defaults:
+    _entity_list: 'group_content'
+    _title: 'People'
+  requirements:
+    _permission: 'administer users'

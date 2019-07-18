@@ -1,0 +1,14 @@
+uuid: ce5116a0-1d98-46f7-9d19-3ab16048ffdd
+langcode: en
+status: true
+dependencies:
+  module:
+    - tmgmt_xtm
+name: xtm
+label: XTM
+description: 'Xtm Translator service.'
+auto_accept: null
+weight: null
+plugin: xtm
+settings: {  }
+remote_languages_mappings: {  }
